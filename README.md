@@ -4,13 +4,12 @@
 - 🧑‍💻Cursando Análise e Desenvolvimento de Sistemas
 - 📬Contate-me: bernardovyeyra@gmail.com
 
- <div>
-  <a href="https://github.com/BernardoVxexra">
+  <div>
+  <a href="https://github.com/Gabriel-Anjoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoVxexra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoVxexra&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
-<h3 align="left">Linguagens:</ h3>
+<h2 align="left">Linguagens:</h2>
 
 ###
 <div align="left">
