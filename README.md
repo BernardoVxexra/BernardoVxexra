@@ -1,8 +1,11 @@
 ### HI, My name is Bernardo Vieira
 
-- Atualmente no 2 Ano da Etec Zona leste
-- 🧑‍💻Cursando Análise e Desenvolvimento de Sistemas
-- 📬Contate-me: bernardovyeyra@gmail.com
+
+<h1 align="left">🎓Atualmente no 2 Ano da Etec Zona leste</h2>
+<h2 align="left">🧑‍💻Cursando Análise e Desenvolvimento de Sistemas</h2>
+<h3 align="left">📬Contate-me: bernardovyeyra@gmail.com</h2>
+
+
 
   <div>
   <a href="https://github.com/Gabriel-Anjoss">
