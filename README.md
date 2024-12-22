@@ -1,4 +1,4 @@
-### HI, My name is Bernardo Vieira
+![image](https://github.com/user-attachments/assets/1618ca1d-b2eb-4145-8079-d2bfc3efc87f)### HI, My name is Bernardo Vieira
 
 <h2 align="left">Studying Systems Analysis and Development</h2>
 <h3 align="left">📬Contact me: bernardovyeyra@gmail.com</h2>
@@ -30,6 +30,7 @@
 
 ###
 <div align="left">
-<a href="www.linkedin.com/in/bernardo-v-b824982bb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bernardo Vieira Costa dos Santos"  /></a>
+<a href="https://www.linkedin.com/in/bernardo-vieira-b824982bb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bernardo Vieira Costa dos Santos"  /></a>
 <a href="https://www.instagram.com/bernardovxexra/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bernardovxexra"  /></a>
 </div>
+sd
