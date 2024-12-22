@@ -1,7 +1,7 @@
 ### HI, My name is Bernardo Vieira
 
-<h2 align="left">Cursando Análise e Desenvolvimento de Sistemas</h2>
-<h3 align="left">📬Contate-me: bernardovyeyra@gmail.com</h2>
+<h2 align="left">Studying Systems Analysis and Development</h2>
+<h3 align="left">📬Contact me: bernardovyeyra@gmail.com</h2>
 
 
 <div>
@@ -10,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoVxexra&layout=compact&langs_count=16&theme=dracula"/>
   </div>
         
-<h2 align="left">Linguagens:</h2>
+<h2 align="left">Languages:</h2>
 
 ###
 <div align="left">
