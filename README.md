@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/1618ca1d-b2eb-4145-8079-d2bfc3efc87f) ### HI, My name is Bernardo Vieira
+### HI, My name is Bernardo Vieira
 
 <h2 align="left">Studying Systems Analysis and Development</h2>
 <h3 align="left">📬Contact me: bernardovyeyra@gmail.com</h2>
