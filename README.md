@@ -25,6 +25,8 @@
   <img src= https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="40" alt="Python logo" />
 </div>
 
+<h2 align="left">Databases:</h2>
+
 <h3 align="left">Redes Sociais:</ h3>
 
 ###
