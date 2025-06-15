@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img src= https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="40" alt="Python logo"
+  <img src= https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="40" alt="Python logo" />
 </div>
 
 <h3 align="left">Redes Sociais:</ h3>
